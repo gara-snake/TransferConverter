@@ -1,0 +1,144 @@
+header.title	ʘmʘchim Official Site | Asobism Co., Ltd.
+top.menu.top	Top
+top.menu.what	What is ʘmʘchim?
+top.menu.code	Touch to move
+top.menu.contact	Contact
+top.kv.image	images/top/main_title_01_en.png
+top.kv.release_date	
+top.about.image	images/top/01_title_a.svg
+top.about.content	ʘmʘchim are little mechs shaped like "o-mochi," the famous Japanese snack. They're your trusty partner equipped with various sensors that you can operate via remote control or program to run!
+top.about.image_top	Create, play, and share<br>Endless creative puzzles
+top.about.image_bottom	Multilingual platform!<br>Publish your games to the world
+top.park.image	images/top/01_title_b.svg
+top.park.content	Build all sorts of ʘmʘchim mechs that possess different functions by combining motors, hinges, and other construction parts. Plan and put together custom-made forms to go with your parks!
+top.park.image_top	Need to transport lots of cargo in one go? Just make your ʘmʘchim into a truck!
+top.park.image_bottom	Utilize programming to do lots more with your custom-made forms.
+top.park.check_out	Check out these ʘmʘchim!
+top.park.catapult	Catapult Form
+top.park.tank	Tank Form
+top.park.quadrupedal	Quadrupedal Form
+top.partner.image	images/top/01_title_c.svg
+top.partner.content	Use the editor feature to create your own park in which you can play and experiment with the physics engine, then share it with others.
+top.partner.image_top	It's easy to place various objects and edit the terrain and programming.
+top.partner.image_bottom	Share your completed park, and let everyone play in your cool park!
+top.make.title	Create
+top.make.image	images/top/title_02_02.svg
+top.make.balloon	Everything you need for creation is here. Enjoy creating!
+top.make.left	Easy 3D placement with your mouse. Use power and joint parts, then get them moving with the physics engine.
+top.make.center	Programming Lots to create with no coding required! A wide variety of sample codes is also available.
+top.make.right	Plenty of BGM, SFX, and VFX assets included! Make your parks unique by using the specialized app.
+top.play.title	Play
+top.play.image	images/top/title_03_2.svg
+top.play.balloon_top	More and more parks others have made get added every month!
+top.play.balloon_bottom	Try out all sorts of parks! You'll earn achievements, too!
+top.play.left	Play with others from all over the world in online multiplayer mode!!<span>(The online multiplayer mode is under development now.)</span>
+top.play.right	Find and follow your favorite creators. Users who like your parks can also follow you.
+top.play.plus	There's more!
+top.code.image	images/top/title_04_02.svg
+top.code.top	ʘmʘchim mech that you can use in conjunction with the app.
+top.code.left	Once connected to the app, you can program the ʘmʘchim mech using the same code.
+top.code.center	A sheet metal frame made with strength and design in mind! LEGO blocks can also be used!
+top.code.right	It has powerful sensors for distance measuring inclines, direction, movement, etc.
+top.code.what	About your ʘmʘchim mech
+top.code.detail	The main draw of ʘmʘchim mech is that, in addition to being in the digital world, you can actually touch and play with it using your hands. You can even create your very own park on top of a desk in your room!
+top.learn.title	Learn
+top.learn.message	<img src="images/common/logo_omochim_bk.svg" alt="ʘmʘchim &copy;"> wants you to know something...
+top.learn.detail	Games are fun to play, and even more fun to make! At least, that's how a lot of game developers feel. The very act of creating can be the best way to have fun. And this game is all about creating! Having fun while making
+top.connect.title	Connect
+top.connect.follow	Check here for the latest news and announcements!<br>Go ahead and follow our official X account!
+top.connect.twitter	<img src="images/common/icon_X.svg" alt="">
+top.connect.ʘmʘchim_twitter	ʘmʘchim X account
+top.connect.ʘmʘchim_twitter_link	https://twitter.com/OmOchim_EN
+top.connect.note	ʘmʘchim behind-the-scene stories, workshop reports, and more are posted here from time to time!
+top.connect.ʘmʘchim_note	ʘmʘchim Notes
+top.connect.ʘmʘchim_note_preparing	ʘmʘchim Notes <span>Under construction</span>
+top.connect.discord	The official community for ʘmʘchim users. Here, you'll be able to ask questions and find like-minded players.
+top.connect.ʘmʘchim_discord	ʘmʘchim Discord
+top.connect.ʘmʘchim_discord_preparing	ʘmʘchim Discord <span>Under construction</span>
+top.information.image	images/top/img_ps_02.png
+top.information.title_column	Title
+top.information.title_value	ʘmʘchim
+top.information.release_column	Scheduled beta release
+top.information.release_value	November 23, 2023
+top.information.sale_column	Cost
+top.information.sale_value	Basically free (some paid services)
+top.information.case_column	Frame price
+top.information.case_value	○○ yen
+top.information.os_column	Operating Systems
+top.information.os_value	Windows: Windows 10 and later<br>Mac: macOS Catalina 10.15 and later
+top.information.hardware_column	Hardware Requirements
+top.information.hardware_value	PCs less than 5 years old with dedicated graphics cards, or laptops less than 3 years old with built-in graphics cards.
+top.modal.omochim.title	Frame
+top.modal.omochim.top	Having an ʘmʘchim frame will open up more ways to play. You can operate an ʘmʘchim frame with the same in-game codes, so your home can essentially become a park!
+top.modal.omochim.bottom	The method of control you develop in the game can also be used for controlling drones. That means you'll end up improving other skills as your ʘmʘchim knowledge and skills increase.
+top.modal.omochim.buy	You can buy frames here!
+top.modal.omochim.link	Purchase frame
+top.can_image	images/top/title_02.svg
+top.players_site_image	images/common/btn_ps_en.png
+top.players_site_hover_image	images/common/btn_ps_hover_en.png
+top.more	More info
+top.download	Download here
+top.parent-teacher	For guardians and educators
+parent-teacher.kv.content	What ʘmʘchim can promise in educational settings
+parent-teacher.learning.top_title	Players will naturally develop their programming and logical thinking skills while playing with the ʘmʘchim.
+parent-teacher.learning.top_content	The best way to encourage learning is to make it enjoyable. Playing fosters further interest in a topic, and provides a natural and fun way to learn and continue learning.
+parent-teacher.learning.bottom_title	<br>The prototype<br>hacking method makes learning fun.
+parent-teacher.learning.bottom_content	The Prototype Hacking Method is a unique learning method born from a professional development worksite. Tapping into children's innate desires to experiment, kids will learn logical structures in a fun way through repeated trial and error, which fosters creativity. ʘmʘchim is a game that's designed with this method in mind.
+parent-teacher.thought.title	A message from the developers
+parent-teacher.thought.sub_title	"Creating your own way to play, through play." Creativity can flourish when there aren't any rules.
+parent-teacher.thought.top	So, what exactly is a game? Most people will answer<br>that a game is any activity that "has rules."
+parent-teacher.thought.middle	With this game, we wanted to eliminate rules as much as we could.<br>In doing so, we hope to have the players themselves think up<br>their own rules as part of what makes the game fun.
+parent-teacher.thought.bottom	With ʘmʘchim, players are free to choose how they play.<br>Through the fun experience of "creating your own way to play,"<br>we hope that all players can experience<br>an enriching environment that fosters creativity.
+parent-teacher.thought.representative	Asobism Representative / ʘmʘchim Director
+parent-teacher.thought.representative_name	Tomohisa Ote
+parent-teacher.thought.representative_message	We have worked for a long time to bring you an awesome experience of "creating your own way to play." So, We hope everyone has fun and a creative time!
+parent-teacher.thought.director	ʘmʘchim Planner
+parent-teacher.thought.director_name	Hiroshi Yoda
+parent-teacher.thought.director_message	ʘmʘchim was created with the goal of making the act of creation as enjoyable as possible. Play makes for the best way to learn! I hope you enjoy the game!
+parent-teacher.thought.programmer	ʘmʘchim Main Programmer
+parent-teacher.thought.programmer_name	Ken Iriuda
+parent-teacher.thought.programmer_message	Even with no experience in programming, you can turn ideas into cool parks!<br>And if you end up learning some programming along the way, all the better!
+parent-teacher.thought.komatu	UI/UX Designer
+parent-teacher.thought.komatu_name	Kazunao Komatsu
+parent-teacher.thought.komatu_message	I hope we are able to convey the joys of creating through ʘmʘchim. Definitely try everything out!
+parent-teacher.thought.matuoka	Audio
+parent-teacher.thought.matuoka_name	Kohei Matsuoka
+parent-teacher.thought.matuoka_message	We've included lots of music and sound effects in the game, so I hope that you enjoy using them in addition to creating different forms and motions.
+faq.image	images/faq/title_faq.svg
+faq.contact	Contact us here
+news.title	News
+news.detail	News (full)
+footer.company	Company overview
+footer.privacy	Privacy policy
+footer.term	Terms of Service
+footer.contact	Contact
+footer.recruit	Careers
+housing.kv	<img src="images/housing/title_housing.svg" alt="">Housing
+housing.housing.title	A <img src="images/common/logo_omochim_wh.svg" alt=""> frame you can operate in real life.
+housing.housing.date	Slated for release on ?/??/2024
+housing.housing.main	Body
+housing.housing.main_detail	ESP32 (16MB flash / 8MB PSRAM), AAA powered (eneloop recommended), mini planetary gear motor x2 (with rotary encoder), headlamp, tail light, 6-axis sensor (LSM6DSM), buzzer, servo extension cable x2, IC extension cable x2, 55 x 69 x 62mm (height, width, depth), 68g
+housing.housing.attachment	Camera & Sensor
+housing.housing.attachment_detail	Camera (OV2640), gesture sensor (APDS-9960), distance sensor (VL53L0CX), infrared side sensor, equipped with red and blue LEDs on front left and right
+housing.team.title	Development Team<span> + Partner Companies</span>
+housing.team.produce_cmp	Asobism Co., Ltd.
+housing.team.produce	Representative Director and CEO
+housing.team.produce_name	Tomohisa Ote
+housing.team.produce_message	Main roles: Producing, play design <br>Official site: <a href="https://www.asobism.co.jp/" target="_blank">https://www.asobism.co.jp/</a>
+housing.team.megatronics_design_cmp	I2I Tech Inc.
+housing.team.megatronics_design	Representative
+housing.team.megatronics_design_name	Shigeo Itoi
+housing.team.megatronics_design_message	Main roles: Mechatronics design, initial prototyping<br>Official site: <a href="https://i2i-tech.com/index.html" target="_blank">https://i2i-tech.com/index.html</a>
+housing.team.design_supervision_cmp	znug design, inc.
+housing.team.design_supervision	Creative Communicator / Designer
+housing.team.design_supervision_name	Kota Nezu
+housing.team.design_supervision_message	Main roles: Design supervision, product chassis design<br>Official site: <a href="https://www.znug.com/" target="_blank">https://www.znug.com/</a>
+housing.team.circuit_design_cmp	The Magic Cauldron
+housing.team.circuit_design	Representative
+housing.team.circuit_design_name	Takehiro Okada
+housing.team.circuit_design_message	Main roles: Circuit design, board production<br>Official site: <a href="ttp://www.eldhrimnir.com/" target="_blank">http://www.eldhrimnir.com/</a>
+housing.team.partner_company	<span>Metal plate chassis production　</span>Amauchi Industry Co., Ltd.<br><span>Plastic components, die design & production　</span>Mukoujima Tech LLC
+housing.team.link	Purchase chassis
+housing.team.amazon	
+housing.team.yodobashi	
+housing.link	Under construction
