@@ -1,11 +1,12 @@
 // PHPファイルを読み込む
 import * as fs from 'fs'
+const { parse } = require('jsonc-parser');
 
-const phpFile = "sample.php"; // PHPファイルのパス
+const phpFile = "./data/message.php"; // PHPファイルのパス
 const phpData = fs.readFileSync(phpFile, "utf8");
 
 // TSVファイルに書き込む
-const tsvFile = "output.tsv"; // TSVファイルのパス
+const tsvFile = "./data/output_message.tsv"; // TSVファイルのパス
 const tsvStream = fs.createWriteStream(tsvFile, { flags: "w" });
 
 // PHPファイルを解析して連想配列を取得する関数
@@ -16,14 +17,19 @@ function parsePHP(phpData: string): any {
 	phpData = phpData.replace(/\/\/.*|\/\*[\s\S]*?\*\//g, "");
 	// PHPの変数宣言を削除する
 	phpData = phpData.replace(/\$[a-zA-Z0-9_]+ *= */g, "");
-	// PHPの配列関数を削除する
-	phpData = phpData.replace(/array\(/g, "[");
-	phpData = phpData.replace(/\)/g, "]");
+	phpData = phpData.replace("return", "");
 	// PHPの連想配列をJSONに変換する
 	phpData = phpData.replace(/'/g, "\"");
 	phpData = phpData.replace(/=>/g, ":");
+	phpData = phpData.replace(/\[/g, "{");
+	phpData = phpData.replace(/\]/g, "}");
+
+	// PHPの配列関数を削除する
+	// phpData = phpData.replace(/array\(/g, "[");
+	// phpData = phpData.replace(/\)/g, "]");
+
 	// JSONをパースしてオブジェクトに変換する
-	return JSON.parse(phpData);
+	return parse(phpData);
 }
 
 // 連想配列を再帰的に探索してキーと値のペアを生成する関数
@@ -36,7 +42,7 @@ function traverse(obj: any, path: string[] = []): [string, any][] {
 		}
 	} else {
 		// それ以外の場合は現在のパスと値のペアを返す
-		pairs.push([path.join("__"), obj]);
+		pairs.push([path.join("."), "\"" + obj + "\""]);
 	}
 	return pairs;
 }
